@@ -1,6 +1,6 @@
 import HeroLinks from '@/data/HeroLinks';
 import type { FC } from 'react';
-const replaceData = ['Get Started Here', 'Go to Repository'];
+const replaceData = ['Get Started Here', 'Explore Project'];
 
 const HLinks = HeroLinks.map((link, indx) => {
   return {
